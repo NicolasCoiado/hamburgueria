@@ -1,0 +1,73 @@
+{
+    "ingredientes": {
+        "paes": [
+            {
+                "id": 1,
+                "tipo": "Pão francês"
+            },
+            {
+                "id": 2,
+                "tipo": "Pão de forma"
+            },
+            {
+                "id": 3,
+                "tipo": "Brioche"
+            },
+            {
+                "id": 4,
+                "tipo": "Pão de batata"
+            }
+        ],
+        "carnes": [
+            {
+                "id": 1,
+                "tipo": "Maminha"
+            },
+            {
+                "id": 2,
+                "tipo": "Alcatra"
+            },
+            {
+                "id": 3,
+                "tipo": "Contra filé"
+            },
+            {
+                "id": 4,
+                "tipo": "Vegano"
+            }
+        ],
+        "opcionais": [
+            {
+                "id": 1,
+                "tipo": "Bacon"
+            },
+            {
+                "id": 2,
+                "tipo": "Cheddar"
+            },
+            {
+                "id": 3,
+                "tipo": "Pepino"
+            },
+            {
+                "id": 4,
+                "tipo": "Alface"
+            }
+        ]
+    },
+    "status": [
+        {
+            "id": 1,
+            "tipo": "Solicitado"
+        },
+        {
+            "id": 2,
+            "tipo": "Em produção"
+        },
+        {
+            "id": 3,
+            "tipo": "Finalizado"
+        }
+    ],
+    "burguers": []
+}
