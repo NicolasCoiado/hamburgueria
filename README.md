@@ -1,19 +1,3 @@
 # hamburgueria
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Projeto front-end que simula o sistema de uma hamburgueria, desenvolvido no curso de Vue.js do canal @matheusbattisti.
